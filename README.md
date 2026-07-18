@@ -40,8 +40,3 @@ Open the printed local URL (usually http://localhost:5173).
 npm run build
 npm run preview   # optional: preview the production build locally
 ```
-
-## Deploy (Vercel or Netlify)
-**Vercel:** import the GitHub repo at vercel.com → framework preset "Vite" is auto-detected → Deploy.
-
-**Netlify:** import the repo at app.netlify.com → build command `npm run build` → publish directory `dist` → Deploy.
